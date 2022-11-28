@@ -7,6 +7,7 @@
     {"id":{"name":"bg_level_5","path":"sprites/bg_level_5/bg_level_5.yy",},"order":4,},
     {"id":{"name":"bg_level_4","path":"sprites/bg_level_4/bg_level_4.yy",},"order":3,},
     {"id":{"name":"spr_speaker1","path":"sprites/spr_speaker1/spr_speaker1.yy",},"order":1,},
+    {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},"order":1,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":1,},
     {"id":{"name":"bg_level_11","path":"sprites/bg_level_11/bg_level_11.yy",},"order":10,},
     {"id":{"name":"bg_level_9","path":"sprites/bg_level_9/bg_level_9.yy",},"order":8,},
@@ -44,6 +45,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
