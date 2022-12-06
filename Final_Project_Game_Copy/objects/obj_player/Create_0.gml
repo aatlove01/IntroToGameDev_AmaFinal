@@ -4,7 +4,7 @@
 moving = false;   //check if the player is moving (start game still)
 
 // Feel free to change these variables or add your own functionality.
-hspd_max = 6		// maximum left/right speed
+hspd_max = 10		// maximum left/right speed
 accel = .1				// left/right movement acceleration
 jump_max= 15				// strength of upward force
 grav_amt= 1.5       //strength of downward force
