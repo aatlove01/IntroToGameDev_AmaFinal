@@ -3,6 +3,8 @@
 
 obj_border.visible = 0;
 
+//get code below from https://www.youtube.com/watch?v=yeHK86T1NtY
+
 {
 	
 	var value = 1;
@@ -11,10 +13,12 @@ obj_border.visible = 0;
 	{
 		for(var j = 0; j<4; ++j)
 		{
-			instance_create_layer(x,
-									y,
+			instance_create_layer(x + (i * sprite_get_width(spr_tile)),
+									y + (j *sprite_get_height(spr_tile)),
 									"Puzzle",
 									obj_tile)
+				//ins.value = value;
+				//++value;
 		}
 	
 }
