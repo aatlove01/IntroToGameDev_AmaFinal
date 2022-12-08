@@ -7,10 +7,10 @@ if mouse_check_button_pressed(mb_left) {
    }
 }
 
-if text_count > 24{
-	text_count = 0
-}
+//if text_count > 24{
+//	text_count = 0
+//}
 
-if text_count = 3{
+//if text_count = 3{
 
-}
+//}

@@ -3,4 +3,4 @@
 
 text_count = 0 ;
 
-text_count_max = 5 ;
+text_count_max = 10 ;

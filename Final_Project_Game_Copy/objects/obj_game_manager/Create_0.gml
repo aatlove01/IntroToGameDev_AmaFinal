@@ -3,3 +3,4 @@
 
 globalvar can_see;
 can_see = false;
+

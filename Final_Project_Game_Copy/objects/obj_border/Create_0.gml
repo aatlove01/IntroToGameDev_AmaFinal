@@ -9,18 +9,23 @@ obj_border.visible = 0;
 	
 	var value = 1;
 	
+	for(var j = 0; j<4; ++j)
+	{
 	for (var i = 0; i <4; ++i)
 	{
-		for(var j = 0; j<4; ++j)
+		
+			if (value !=16)
 		{
-			instance_create_layer(x + (i * sprite_get_width(spr_tile)),
+			
+		var ins = instance_create_layer(x + (i * sprite_get_width(spr_tile)),
 									y + (j *sprite_get_height(spr_tile)),
 									"Puzzle",
 									obj_tile)
-				//ins.value = value;
-				//++value;
+				ins.value = value;
+				++value;
 		}
 	
 }
 
+}
 }
