@@ -3,6 +3,4 @@
 
 //cursor_sprite = spr_mouse_left;
 
-middle = false;
-
 window_set_cursor(cr_none);

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-obj_border.visible = 0;
+//obj_border.visible = 0;
 
 //get code below from https://www.youtube.com/watch?v=yeHK86T1NtY
 

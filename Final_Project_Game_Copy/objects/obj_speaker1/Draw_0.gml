@@ -12,10 +12,10 @@ text_count = 0;
 }
 
 if text_count == 1{
-	draw_sprite(spr_level_1_text, 4, txt_pos_x_player, txt_pos_y_player);
+	draw_sprite(spr_level_1_text, 4,text_position_x+30, text_position_y);
 }
 if text_count == 2{
-	draw_sprite(spr_level_1_text, 5, txt_pos_x_player, txt_pos_y_player);
+	draw_sprite(spr_level_1_text, 5, text_position_x+30, txt_pos_y_player);
 }
 
 //if text_count == 3{

@@ -20,7 +20,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_8B9D3A3_1_1","properties":[],"isDnd":false,"objectId":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6016.0,"y":-32.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Player","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_51DFB40E_1","properties":[],"isDnd":false,"objectId":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":-192.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3FE66F19","properties":[],"isDnd":false,"objectId":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":-160.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Arrows","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5D6EC1A4","properties":[],"isDnd":false,"objectId":{"name":"obj_arrow_left","path":"objects/obj_arrow_left/obj_arrow_left.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.17199391,"scaleY":0.15789473,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":1344.0,},
@@ -68,9 +68,9 @@
     {"name":"inst_12381040_1_1","path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"inst_305D7594_1_1","path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"inst_8B9D3A3_1_1","path":"rooms/rm_level_3/rm_level_3.yy",},
-    {"name":"inst_51DFB40E_1","path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"inst_5D6EC1A4","path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"inst_20ECA3FF","path":"rooms/rm_level_3/rm_level_3.yy",},
+    {"name":"inst_3FE66F19","path":"rooms/rm_level_3/rm_level_3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

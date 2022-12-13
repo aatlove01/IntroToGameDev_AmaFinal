@@ -35,7 +35,7 @@ if !moving{
 
 #region player movement 2
 
-if keyboard_check(vk_left){							// if pressing A..
+if keyboard_check(ord("A")){							// if pressing A..
     if (hspd > -hspd_max){
 		hspd -= accel	                                //accelerate if not at max speed left
 	} else { 
@@ -45,7 +45,7 @@ if keyboard_check(vk_left){							// if pressing A..
     if grounded{
         sprite_index= spr_girl_run
     }
-}else if keyboard_check(vk_right){                     //otherwise if D same deal in other direction...
+}else if keyboard_check(ord("D")){                     //otherwise if D same deal in other direction...
         if (hspd < hspd_max){
 			hspd += accel	
 		} else {

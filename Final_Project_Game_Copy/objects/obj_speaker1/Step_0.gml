@@ -7,10 +7,5 @@ if mouse_check_button_pressed(mb_left) {
    }
 }
 
-//if text_count > 24{
-//	text_count = 0
-//}
+event_inherited();
 
-//if text_count = 3{
-
-//}

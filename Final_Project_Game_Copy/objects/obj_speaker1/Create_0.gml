@@ -10,5 +10,5 @@ text_position_x = x;
 text_position_y = y-200;
 
 txt_pos_x_player = obj_player.x ;
-txt_pos_y_player = obj_player.y;
+txt_pos_y_player = obj_player.y+10;
 
